@@ -1,0 +1,68 @@
+.PeliculaPrincipal {
+    height: 85vh;
+    background-image: url('../public/multimedia/movie_wallpaper.jpeg');
+    width: 100%;
+    margin: 0;
+}
+
+.Informacion {
+    padding-top: 20vh;
+    padding-left: 5vw;
+}
+
+.SinopsisPelicula {
+    padding-top: 2.5vh;
+    color: white;
+    font-size: 2vh;
+}
+
+.LogoPelicula {
+    width: 30vw;
+}
+
+.SeccionDeBotones {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+
+.BotonReproducir {
+    background-color: white;
+    color: green;
+    margin-right: 0.5vw;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    font-size: 1.75vh;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+.BotonInformacion {
+    background-color: gray;
+    color: white;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    font-size: 1.75vh;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+.iconoboton {
+    height: 3vh;
+    margin-right: .5vw;
+}
+
+.ContenidoBoton {
+    display: flex;
+    align-items: center;
+}
+
+.BotonReproducir .ContenidoBoton {
+    color: black;
+}

@@ -1,0 +1,73 @@
+.FooterModule {
+    margin: 0;
+    padding: 0;
+    margin-top: 1vh;
+}
+
+.RedesSociales {
+    display: flex;
+    justify-content: space-around;
+}
+
+.BotonRedSocial {
+    background-color: transparent;
+    padding: 0;
+    margin-right: 1vw;
+}
+
+.IconoRedSocial {
+    width: 1.5vw;
+}
+
+.botones {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-right: 5vw;
+    margin-top: 2vh;
+}
+
+
+.RedesSociales button {
+    border: 0;
+}
+
+.BotonInfo {
+    border: none;
+    background-color: transparent;
+}
+
+.BotonInfo {
+    color: white;
+    font-size: 70%;
+    margin: 0;
+    padding: 0;
+}
+
+.BotonCodigoServicio {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: transparent;
+    font-size: 70%;
+}
+
+.ParteInferior {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Copyright {
+    font-size: 70%;
+}

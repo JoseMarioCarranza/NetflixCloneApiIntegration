@@ -1,0 +1,17 @@
+.Card {
+  color: black;
+  height: 65vh;
+  margin-bottom: 4vh;
+}
+
+.Texto {
+  color: black;
+}
+
+.likeActive {
+  color: #ff0000;
+}
+
+.ImgPortada {
+  height: 40vh;
+}
