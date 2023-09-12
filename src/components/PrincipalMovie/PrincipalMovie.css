@@ -1,6 +1,6 @@
 .PeliculaPrincipal {
     height: 85vh;
-    background-image: url('./public/multimedia/movie_wallpaper.jpeg');
+    background-image: url('public/multimedia/movie_wallpaper.jpeg');
     width: 100%;
     margin: 0;
 }
