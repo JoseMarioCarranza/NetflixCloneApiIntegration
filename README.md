@@ -70,5 +70,6 @@ Contributions are welcome! If you have suggestions or find any bugs, please open
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
-- **Your Name**  
-  [José Mario Rivera Carranza](https://github.com/JoseMarioCarranza)
+- José Mario Rivera Carranza  
+  [Check my github profile](https://github.com/JoseMarioCarranza)
+  [Check my personal page](https://www.ingjosemario.com)
