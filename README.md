@@ -22,7 +22,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/JoseMarioCarranza/NetflixCloneApiIntegration
    ```
 
 2. Navigate to the project directory:
